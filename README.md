@@ -1,1 +1,1 @@
-# Alamofire basic api çağrıları 
+# Alamofire basic api casll
